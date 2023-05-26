@@ -1,0 +1,74 @@
+.body{
+    margin: 0;
+    padding: 0;
+   
+}
+.h1{
+    font-size: 40px;
+}
+/*this is for paragraph*/
+/* Sets the color of the text to a partially transparent blue */
+p {
+    color: rgba(0, 0, 255, 0.5);
+  }
+.mercury{
+  height: 248px;
+  width: 232px;
+  margin-left: 14rem;
+  
+}
+   .venus{
+    margin-bottom: -7rem;
+    margin-top: -8rem;
+    height: 248px;
+    width: 232px;
+    margin-left:22rem ;
+   
+   }
+   .earth{
+    margin-bottom: 5rem;
+    margin-top: -11.5rem;
+    height: 248px;
+    width: 232px;
+    margin-left:30rem ;
+  
+   }
+.mars{
+  margin-top: -17.5rem;
+  height: 248px;
+  width: 232px;
+  margin-left: 38rem;
+ 
+}
+.jupiter{
+  margin-left: 14rem;
+  margin-top: -6rem;
+  height: 248px;
+  width: 232px;
+  
+}
+.saturn{
+  margin-top: -10.8rem;
+  margin-left: 22rem;
+  height: 248px;
+  width: 232px;
+
+}
+.uranus{
+  height: 248px;
+  width: 232px;
+  margin-top: -13.2rem;
+  margin-left: 30rem;
+ 
+}
+.neptune{
+ 
+  height: 248px;
+  width: 232px;
+  margin-left: 38rem;
+  margin-top: -14.3rem;
+  
+}
+img {
+  border: 1px ridge #f1f1f1;
+}
